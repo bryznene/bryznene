@@ -1,7 +1,15 @@
-# Hi 👋, I'm Bryzen Adriel D. Nene
+# 🐏Bryzen Adriel D. Nene
 
-🎓 3rd-year BS Computer Science student Eager to learn, discover, and experience new technologies, coding challenges, and real-world applications 💻
+**`3rd-year BS Computer Science`** 
 
+## About Me
+- A curious Computer Science student.
+- Passionate about coding, AI, and tech development.
+- Always eager to learn and opportunities to grow.
+
+
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/bryznene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bryznene" height="30" width="40" /></a>
