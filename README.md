@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bryzen Adriel D. Nene
 
-### 🎓 3rd Year Computer Science Student
+🎓 3rd-year BS Computer Science student Eager to learn, discover, and experience new technologies, coding challenges, and real-world applications 💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
